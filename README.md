@@ -1,5 +1,5 @@
 # 💫 About Me:
- -👋 Hi, I’m Nathan, most of the time people call me lazy creative.<br>- 👀 I am interested in finance, investments. econometrics and programming.<br>- 🌱 I’m currently learning economics in Universidade Federal do Rio Grande do Sul
+ -👋 Hi, I’m Nathan.<br>- 👀 I am interested in finance, investments. econometrics and programming.<br>- 🌱 I’m currently learning economics in Universidade Federal do Rio Grande do Sul
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-nathan/) 
